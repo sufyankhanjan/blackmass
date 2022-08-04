@@ -12,7 +12,7 @@ os.system("xdg-open https://www.facebook.com/groups/660205018582939")
 try:
     import rich
 except(ImportError):
-    os.system("pip install rich)
+    os.system("pip install rich")
 
 try:
     import requests
